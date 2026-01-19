@@ -1,0 +1,15 @@
+Day 1 Notes
+
+What worked:
+Executing code in the terminal worked and made sense to me, connecting files and terminal.
+
+What was confusing:
+Why hello.py didn't work for the first time, turns out you just need to enter the folder
+in the terminal first.
+
+What I learned:
+I learned and remembered how to execute code, I recalled how to do input and print,
+if else.
+
+Next thing to learn tomorrow:
+We'll see!
