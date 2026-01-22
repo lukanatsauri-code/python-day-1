@@ -1,0 +1,16 @@
+Day 2 Notes
+
+What I practiced:
+- types (str vs int/float)
+- converting input with int() and float()
+- if / elif / else
+- reading and fixing errors (TypeError, NameError, ValueError)
+
+What confused me:
+I don't know, nothing I guess!
+
+What I can do now that I couldn't yesterday:
+Work with inputs and independently create 
+
+One thing to improve tomorrow:
+Just keep improving.
