@@ -14,3 +14,12 @@ Day 1 of learning Python from absolute zero.
 ## Notes
 
 This is part of Phase 1 (Self-Foundation): build technical literacy and public proof of work.
+
+
+
+## Day 2
+
+- `day2_types.py` — shows input types and converting text to integers
+- `day2_calculator.py` — a simple calculator using if/elif/else
+- `day2_debug_me.py` — practice reading errors and fixing them
+- `day2_notes.txt` — reflection notes for Day 2
