@@ -23,3 +23,11 @@ This is part of Phase 1 (Self-Foundation): build technical literacy and public p
 - `day2_calculator.py` — a simple calculator using if/elif/else
 - `day2_debug_me.py` — practice reading errors and fixing them
 - `day2_notes.txt` — reflection notes for Day 2
+
+
+
+## Day 3
+
+- `day3_loops.py` — practice for/while loops, break/continue, and try/except
+- `day3_guess_game.py` — guess-the-number game with safe input handling
+- `day3_notes.txt` — reflection notes for Day 3

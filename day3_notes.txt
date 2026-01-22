@@ -1,0 +1,18 @@
+Day 3 Notes
+
+New concepts today:
+- for loops + range()
+- while loops
+- break and continue
+- try/except (ValueError)
+- importing modules (random)
+- using state variables (attempts, won, quit_game)
+
+What clicked for me:
+Just revisited old learnt stuff, the game was fun.
+
+What I’m still unsure about:
+I want to practice more instead of just going over theory.
+
+One thing I can now build that I couldn’t before:
+Loops. Definitely loops.
